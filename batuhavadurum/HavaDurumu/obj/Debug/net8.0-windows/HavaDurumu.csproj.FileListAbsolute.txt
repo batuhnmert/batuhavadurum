@@ -1,0 +1,17 @@
+C:\Users\Batuhan\Documents\GitHub\batuhavadurum\batuhavadurum\HavaDurumu\bin\Debug\net8.0-windows\HavaDurumu.exe
+C:\Users\Batuhan\Documents\GitHub\batuhavadurum\batuhavadurum\HavaDurumu\bin\Debug\net8.0-windows\HavaDurumu.deps.json
+C:\Users\Batuhan\Documents\GitHub\batuhavadurum\batuhavadurum\HavaDurumu\bin\Debug\net8.0-windows\HavaDurumu.runtimeconfig.json
+C:\Users\Batuhan\Documents\GitHub\batuhavadurum\batuhavadurum\HavaDurumu\bin\Debug\net8.0-windows\HavaDurumu.dll
+C:\Users\Batuhan\Documents\GitHub\batuhavadurum\batuhavadurum\HavaDurumu\bin\Debug\net8.0-windows\HavaDurumu.pdb
+C:\Users\Batuhan\Documents\GitHub\batuhavadurum\batuhavadurum\HavaDurumu\obj\Debug\net8.0-windows\HavaDurumu.Form1.resources
+C:\Users\Batuhan\Documents\GitHub\batuhavadurum\batuhavadurum\HavaDurumu\obj\Debug\net8.0-windows\HavaDurumu.csproj.GenerateResource.cache
+C:\Users\Batuhan\Documents\GitHub\batuhavadurum\batuhavadurum\HavaDurumu\obj\Debug\net8.0-windows\HavaDurumu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batuhan\Documents\GitHub\batuhavadurum\batuhavadurum\HavaDurumu\obj\Debug\net8.0-windows\HavaDurumu.AssemblyInfoInputs.cache
+C:\Users\Batuhan\Documents\GitHub\batuhavadurum\batuhavadurum\HavaDurumu\obj\Debug\net8.0-windows\HavaDurumu.AssemblyInfo.cs
+C:\Users\Batuhan\Documents\GitHub\batuhavadurum\batuhavadurum\HavaDurumu\obj\Debug\net8.0-windows\HavaDurumu.csproj.CoreCompileInputs.cache
+C:\Users\Batuhan\Documents\GitHub\batuhavadurum\batuhavadurum\HavaDurumu\obj\Debug\net8.0-windows\HavaDurumu.sourcelink.json
+C:\Users\Batuhan\Documents\GitHub\batuhavadurum\batuhavadurum\HavaDurumu\obj\Debug\net8.0-windows\HavaDurumu.dll
+C:\Users\Batuhan\Documents\GitHub\batuhavadurum\batuhavadurum\HavaDurumu\obj\Debug\net8.0-windows\refint\HavaDurumu.dll
+C:\Users\Batuhan\Documents\GitHub\batuhavadurum\batuhavadurum\HavaDurumu\obj\Debug\net8.0-windows\HavaDurumu.pdb
+C:\Users\Batuhan\Documents\GitHub\batuhavadurum\batuhavadurum\HavaDurumu\obj\Debug\net8.0-windows\HavaDurumu.genruntimeconfig.cache
+C:\Users\Batuhan\Documents\GitHub\batuhavadurum\batuhavadurum\HavaDurumu\obj\Debug\net8.0-windows\ref\HavaDurumu.dll

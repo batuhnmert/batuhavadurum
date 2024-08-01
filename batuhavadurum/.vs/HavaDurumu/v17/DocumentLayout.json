@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Batuhan\\Documents\\GitHub\\batuhavadurum\\batuhavadurum\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D5EA899-1CB4-48D6-BDBC-998E40054EC9}|HavaDurumu\\HavaDurumu.csproj|c:\\users\\batuhan\\documents\\github\\batuhavadurum\\batuhavadurum\\havadurumu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D5EA899-1CB4-48D6-BDBC-998E40054EC9}|HavaDurumu\\HavaDurumu.csproj|solutionrelative:havadurumu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D5EA899-1CB4-48D6-BDBC-998E40054EC9}|HavaDurumu\\HavaDurumu.csproj|c:\\users\\batuhan\\documents\\github\\batuhavadurum\\batuhavadurum\\havadurumu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2D5EA899-1CB4-48D6-BDBC-998E40054EC9}|HavaDurumu\\HavaDurumu.csproj|solutionrelative:havadurumu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 267,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Batuhan\\Documents\\GitHub\\batuhavadurum\\batuhavadurum\\HavaDurumu\\Form1.cs",
+              "RelativeDocumentMoniker": "HavaDurumu\\Form1.cs",
+              "ToolTip": "C:\\Users\\Batuhan\\Documents\\GitHub\\batuhavadurum\\batuhavadurum\\HavaDurumu\\Form1.cs",
+              "RelativeToolTip": "HavaDurumu\\Form1.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAswCMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T10:02:58.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Batuhan\\Documents\\GitHub\\batuhavadurum\\batuhavadurum\\HavaDurumu\\Form1.cs",
+              "RelativeDocumentMoniker": "HavaDurumu\\Form1.cs",
+              "ToolTip": "C:\\Users\\Batuhan\\Documents\\GitHub\\batuhavadurum\\batuhavadurum\\HavaDurumu\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "HavaDurumu\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T09:04:55.372Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
